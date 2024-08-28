@@ -37,4 +37,4 @@ chainlit run ./app/main_openai.py -w
 `-w` flag to enable auto-reloading
 
 Please follow instructions if you want to run local LLM from 
-![README-ollama.md](README-ollama.md)
+!(README-ollama.md)
